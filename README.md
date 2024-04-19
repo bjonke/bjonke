@@ -1,1 +1,3 @@
-README some more please.
+# BJONKE
+
+Some of my personal projects.
